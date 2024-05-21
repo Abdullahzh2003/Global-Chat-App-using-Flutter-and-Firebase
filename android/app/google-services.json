@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389398616787",
+    "project_id": "messagefinal-app",
+    "storage_bucket": "messagefinal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389398616787:android:4bb80da4975f2fe64d9226",
+        "android_client_info": {
+          "package_name": "com.example.messagefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtnN8qIi0E7lsdMqKTYorv03MTu0JXa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
